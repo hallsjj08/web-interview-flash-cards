@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import "./App.css";
 import { ErrorResponse, ResponseData } from "./helpers/fetch";
 import FlashCard from "./components/FlashCard";
 
